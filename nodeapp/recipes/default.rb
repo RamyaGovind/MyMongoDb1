@@ -1,4 +1,4 @@
-deploy = node[:deploy]['my_app']
+deploy = node[:deploy]['Analytics']
 
 script "setup_test_app" do
   interpreter "bash"
