@@ -1,6 +1,6 @@
-name        "mongodb-mysite"
-description 'Example cookbook for MongoDB Berkshelf based install'
-maintainer  "MyOrg"
+name        "mongodb-singlenode"
+description 'MongoDB single node Berkshelf based install'
+maintainer  "Company"
 license     "Apache 2.0"
 version     "1.0.0"
 
