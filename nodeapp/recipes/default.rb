@@ -1,4 +1,4 @@
-deploy = node[:deploy]['voonik_analytics']
+deploy = node[:deploy]['myapp1']
 
 script "setup_test_app" do
   interpreter "bash"
